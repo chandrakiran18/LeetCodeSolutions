@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0867-transpose-matrix](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
@@ -40,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
 ## Math
 |  |

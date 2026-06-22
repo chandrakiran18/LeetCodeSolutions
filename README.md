@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0066-plus-one) |
@@ -72,9 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0796-rotate-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

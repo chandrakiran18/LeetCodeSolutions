@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0066-plus-one) |
 ## Binary Search
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->

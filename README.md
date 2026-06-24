@@ -80,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |

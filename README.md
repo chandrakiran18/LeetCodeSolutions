@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0018-4sum) |
+| [0041-first-missing-positive](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0066-plus-one) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [1189-maximum-number-of-balloons](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 ## Counting

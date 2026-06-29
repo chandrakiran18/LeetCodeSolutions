@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0976-largest-perimeter-triangle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0976-largest-perimeter-triangle) |
+| [1572-matrix-diagonal-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0289-game-of-life](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0289-game-of-life) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0905-sort-array-by-parity) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0561-array-partition) |

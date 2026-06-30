@@ -3,10 +3,7 @@ class Solution {
         String s2=s.toLowerCase();
         String s1="";
         for(char c:s2.toCharArray()){
-            if(c>='a' && c<='z'){
-            s1+=c;
-            }
-            else if(Character.isDigit(c)){
+            if(Character.isLetterOrDigit(c)){
                 s1+=c;
             }
         }

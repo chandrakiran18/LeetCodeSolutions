@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0468-validate-ip-address](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0468-validate-ip-address) |
 | [0709-to-lower-case](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0796-rotate-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 ## Counting Sort
 |  |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

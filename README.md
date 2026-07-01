@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0561-array-partition) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0468-validate-ip-address](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0468-validate-ip-address) |
 | [0709-to-lower-case](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0796-rotate-string) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
+| [0389-find-the-difference](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 ## Memoization
 |  |
 | ------- |

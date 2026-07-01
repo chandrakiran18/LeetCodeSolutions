@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 ## Matrix
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0976-largest-perimeter-triangle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 ## Binary Search
 |  |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

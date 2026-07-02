@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0976-largest-perimeter-triangle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0976-largest-perimeter-triangle) |
+| [2409-count-days-spent-together](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 ## String Matching
 |  |
 | ------- |

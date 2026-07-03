@@ -1,21 +1,14 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        int[] alpha1=new int[26];
-        int[] alpha2=new int[26];
-        for(int i=0;i<ransomNote.length();i++){
-            char c=ransomNote.charAt(i);
-            int ind=c-'a';
-            alpha1[ind]+=1;
-        }
+        int[] seen=new int[26];
         for(int i=0;i<magazine.length();i++){
-            char c=magazine.charAt(i);
-            int ind=c-'a';
-            alpha2[ind]+=1;
+            seen[magazine.charAt(i)-'a']++;
         }
-        for(int i=0;i<ransomNote.length();i++){
-            char c=ransomNote.charAt(i);
-            int ind=c-'a';
-            if(alpha1[ind]>alpha2[ind])return false;
+        for(int j=0;j<ransomNote.length();j++){
+            seen[ransomNote.charAt(j)-'a']--;
+            if(seen[ransomNote.charAt(j)-'a']<0){
+                return false;
+            }
         }
         return true;
     }

@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0468-validate-ip-address) |
 | [0520-detect-capital](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |

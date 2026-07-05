@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0468-validate-ip-address) |
+| [0500-keyboard-row](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |

@@ -1,8 +1,9 @@
 class Solution {
     public boolean checkRecord(String s) {
+        char[] record=s.toCharArray();
         int abs=0;
         int late=0;
-        for(char c:s.toCharArray()){
+        for(char c:record){
             if(c=='A'){
                 abs++;
                 if(abs>=2)return false;

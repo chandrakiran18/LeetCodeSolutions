@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2409-count-days-spent-together](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2506-count-pairs-of-similar-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2506-count-pairs-of-similar-strings) |
 ## Counting Sort
 |  |

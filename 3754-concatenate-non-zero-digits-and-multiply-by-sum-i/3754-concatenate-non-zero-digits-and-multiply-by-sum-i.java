@@ -1,23 +1,22 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        String num=String.valueOf(n);
-        String str="";
-        long ans=0;
-        for(char c:num.toCharArray()){
-            if(c!='0'){
-                str+=c;
-            }
-        }
-        if(str.length()==0)return 0;
-        long temp=Integer.parseInt(str);
+        String str = "";
         long sum=0;
-        long temp2=temp;
-        while(temp2!=0){
-            long rem=temp2%10;
-            sum+=rem;
-            temp2/=10;
+        long no=0;
+        while(n>0){
+            long rem = n%10;
+            if(rem!=0){
+                no=no*10+rem;
+                sum+=rem;
+            }
+            n/=10;
         }
-        ans=temp*sum;
+        StringBuilder sb=new StringBuilder();
+        sb.append(no);
+        sb.reverse();
+        str=sb.toString();
+        no=Integer.parseInt(str);
+        long ans=no*sum;
         return ans;
     }
 }

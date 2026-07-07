@@ -8,8 +8,8 @@ class Solution {
                 temp.add(strs[i]);
                 char[] a=strs[i].toCharArray();
                 Arrays.sort(a);
-                for(int j=0;j<n;j++){
-                    if(j==i)continue;
+                for(int j=i+1;j<n;j++){
+                    // if(j==i)continue;
                     if(strs[i].length()!=strs[j].length())continue;
                     char[] b=strs[j].toCharArray();
                     Arrays.sort(b);

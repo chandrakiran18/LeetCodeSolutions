@@ -5,19 +5,13 @@ class Solution {
         String vowels="aeiouAEIOU";
         char[] str=s.toCharArray();
         while(i<j){
-            char c=str[i];
-            if(vowels.indexOf(c)==-1){
-                i++;
-            }else{
-                char ch=str[j];
-                if(vowels.indexOf(ch)!=-1){
-                    char temp=str[i];
-                    str[i]=str[j];
-                    str[j]=temp;
-                    i++;
-                }
-                j--;
-            }
+            while(i<j && vowels.indexOf(str[i])==-1)i++;
+            while(i<j && vowels.indexOf(str[j])==-1)j--;
+            char temp=str[i];
+            str[i]=str[j];
+            str[j]=temp;
+            i++;
+            j--;
         }
         return new String(str);
     }

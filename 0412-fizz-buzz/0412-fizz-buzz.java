@@ -4,18 +4,16 @@ class Solution {
         for(int i=1;i<=n;i++){
             if(i%3==0 && i%5==0){
                 ans.add("FizzBuzz");
-                continue;
             }
             else if(i%3==0){
                 ans.add("Fizz");
-                continue;
             }
             else if(i%5==0){
                 ans.add("Buzz");
-                continue;
+            }else{
+                String temp=String.valueOf(i);
+                ans.add(temp);
             }
-            String temp=String.valueOf(i);
-            ans.add(temp);
         }
         return ans;
     }

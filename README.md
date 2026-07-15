@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0289-game-of-life](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0289-game-of-life) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0415-add-strings) |

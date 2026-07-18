@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0415-add-strings) |
 | [0976-largest-perimeter-triangle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2427-number-of-common-factors) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion

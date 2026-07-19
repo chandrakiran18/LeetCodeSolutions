@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |

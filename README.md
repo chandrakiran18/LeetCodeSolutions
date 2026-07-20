@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0860-lemonade-change) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0890-find-and-replace-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |

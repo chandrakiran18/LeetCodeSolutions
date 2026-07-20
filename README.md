@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0561-array-partition) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0844-backspace-string-compare) |
 ## Enumeration
 |  |
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0050-powx-n) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

@@ -12,8 +12,6 @@ class Solution {
                     if(grid[k][j]>rm){
                         rm=grid[k][j];
                     }
-                }
-                for(int k=0;k<m;k++){
                     if(grid[i][k]>clm){
                         clm=grid[i][k];
                     }

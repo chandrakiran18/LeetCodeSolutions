@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1768-merge-strings-alternately) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2506-count-pairs-of-similar-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2506-count-pairs-of-similar-strings) |
 ## Counting
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2506-count-pairs-of-similar-strings) |
 ## Counting Sort
 |  |

@@ -3,15 +3,14 @@ class Solution {
         StringBuilder sb=new StringBuilder();
         int par=0;
         for(char c:s.toCharArray()){
-            if(par==1 && c==')'){
+            if(c=='('){
+                if(par>0)sb.append(c);
+                par++;
+            }
+            else{
                 par--;
-                continue;
+                if(par>0)sb.append(c);
             }
-            if(par>0){
-                sb.append(c);
-            }
-            if(c=='(')par++;
-            else par--;
         }
         return sb.toString();
     }

@@ -6,11 +6,7 @@ class Solution {
             int flag=0;
             while(temp!=0){
                 int rem=temp%10;
-                if(rem==0){
-                    flag=1;
-                    break;
-                }
-                if(i%rem!=0){
+                if(rem==0 || i%rem!=0){
                     flag=1;
                     break;
                 }

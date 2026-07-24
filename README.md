@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0289-game-of-life](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0289-game-of-life) |
 | [0414-third-maximum-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |

@@ -1,10 +1,17 @@
 class Solution {
     public int maxProduct(int n) {
-        char[] chars=String.valueOf(n).toCharArray();
-        Arrays.sort(chars);
-        int x=chars.length;
-        int d1=chars[x-1]-'0';
-        int d2=chars[x-2]-'0';
-        return d1*d2;
+        int max1=0;
+        int max2=0;
+        while(n!=0){
+            int rem=n%10;
+            if(rem>max1){
+                max2=max1;
+                max1=rem;
+            }else if(rem>max2){
+                max2=rem;
+            }
+            n/=10;
+        }
+        return max1*max2;
     }
 }

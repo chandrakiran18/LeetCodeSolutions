@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0289-game-of-life](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0389-find-the-difference) |

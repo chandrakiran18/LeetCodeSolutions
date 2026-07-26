@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0289-game-of-life](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 ## Segment Tree
 |  |

@@ -1,15 +1,17 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        HashSet<Integer> set = new HashSet<>();
+        Arrays.sort(nums);
         int n=nums.length;
+        int actualSum=nums[0];
         int a=0;
-        int actualSum=0;
-        for(int x:nums){
-            actualSum+=x;
-            if(!set.contains(x)){
-                set.add(x);
-            }else{
-                a=x;
+        int flag=0;
+        for(int i=1;i<n;i++){
+            actualSum+=nums[i];
+            if(flag==0){
+                if(nums[i-1]==nums[i]){
+                    a=nums[i];
+                    flag=1;
+                }
             }
         }
         int exp=n*(n+1)/2;

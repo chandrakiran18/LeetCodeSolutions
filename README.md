@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2469-convert-the-temperature) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [2490-circular-sentence](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2490-circular-sentence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2506-count-pairs-of-similar-strings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |

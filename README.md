@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0049-group-anagrams) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |

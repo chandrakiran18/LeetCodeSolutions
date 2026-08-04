@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0877-stone-game) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -466,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

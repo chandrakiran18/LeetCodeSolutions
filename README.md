@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0415-add-strings) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0852-peak-index-in-a-mountain-array) |

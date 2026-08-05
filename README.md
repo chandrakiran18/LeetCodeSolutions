@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1572-matrix-diagonal-sum) |
+| [1652-defuse-the-bomb](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1652-defuse-the-bomb](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1652-defuse-the-bomb) |
 ## Stack
 |  |
 | ------- |

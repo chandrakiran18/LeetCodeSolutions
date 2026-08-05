@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |

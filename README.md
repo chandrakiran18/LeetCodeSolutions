@@ -479,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0888-fair-candy-swap) |
 | [0890-find-and-replace-pattern](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0976-largest-perimeter-triangle) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0888-fair-candy-swap](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0888-fair-candy-swap) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
+| [0888-fair-candy-swap](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0888-fair-candy-swap) |
 | [0890-find-and-replace-pattern](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0890-find-and-replace-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1207-unique-number-of-occurrences) |

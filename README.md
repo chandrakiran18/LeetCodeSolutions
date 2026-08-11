@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2460-apply-operations-to-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2506-count-pairs-of-similar-strings) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3731-find-missing-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3731-find-missing-elements) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2506-count-pairs-of-similar-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2506-count-pairs-of-similar-strings) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |

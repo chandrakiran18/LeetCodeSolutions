@@ -4,7 +4,7 @@ class Solution {
         int n=nums.length;
         int low=1;
         int high=nums[n-1];
-        int ans=high;
+        int ans=0;
         while(low<=high){
             int mid=low+(high-low)/2;
             int sum=0;

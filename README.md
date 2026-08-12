@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0976-largest-perimeter-triangle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [1207-unique-number-of-occurrences](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1207-unique-number-of-occurrences) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0888-fair-candy-swap) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |

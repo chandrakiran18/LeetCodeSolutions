@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2460-apply-operations-to-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2506-count-pairs-of-similar-strings) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3731-find-missing-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3731-find-missing-elements) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2506-count-pairs-of-similar-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2506-count-pairs-of-similar-strings) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1652-defuse-the-bomb) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
 | ------- |

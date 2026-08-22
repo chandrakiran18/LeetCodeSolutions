@@ -9,6 +9,8 @@ class Solution {
             prod*=rem;
             x/=10;
         }
-        return n%(sum+prod)==0;
+        int fin=sum+prod;
+        if(n%fin==0)return true;
+        return false;
     }
 }

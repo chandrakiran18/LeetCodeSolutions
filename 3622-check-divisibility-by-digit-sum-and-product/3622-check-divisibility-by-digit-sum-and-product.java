@@ -8,8 +8,8 @@ class Solution {
             sum+=x;
             prod*=x;
         }
-        sum+=prod;
-        if(n%sum==0)return true;
+        int fin=sum+prod;
+        if(n%fin==0)return true;
         return false;
     }
 }

@@ -11,12 +11,13 @@ class Solution {
                 arr2.add(nums[i]);
             }
         }
-        for(int n:arr2){
-            arr1.add(n);
-        }
-        int[] result=new int[arr1.size()];
+        int[] result=new int[arr1.size()+arr2.size()];
         int i=0;
         for(int n:arr1){
+            result[i]=n;
+            i++;
+        }
+        for(int n:arr2){
             result[i]=n;
             i++;
         }

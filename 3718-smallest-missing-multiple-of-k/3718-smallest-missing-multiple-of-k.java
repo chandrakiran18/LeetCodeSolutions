@@ -1,7 +1,7 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
         int i=k;
-        while(i<=200){
+        while(i<=k*(nums.length+1)){
             int flag=0;
             for(int j=0;j<nums.length;j++){
                 if(nums[j]==i){

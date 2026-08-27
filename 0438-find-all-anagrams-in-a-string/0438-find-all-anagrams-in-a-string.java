@@ -9,35 +9,27 @@ class Solution {
         for(char c:p.toCharArray()){
             a[c-'a']++;
         }
-        for(int i=0;i<k;i++){
-            char c=s.charAt(i);
+        int i=0;
+        int j=0;
+        while(j<n){
+            char c=s.charAt(j);
             b[c-'a']++;
-        }
-        boolean flag=true;
-        for(int i=0;i<26;i++){
-            if(a[i]!=b[i]){
-                flag=false;
-                break;
-            }
-        }
-        if(flag){
-            ans.add(0);
-        }
-        for(int i=k;i<n;i++){
-            char c=s.charAt(i);
-            char d=s.charAt(i-k);
-            b[c-'a']++;
-            b[d-'a']--;
-            boolean fl=true;
-            for(int j=0;j<26;j++){
-                if(a[j]!=b[j]){
-                    fl=false;
-                    break;
+            if(j-i+1==k){
+                boolean flag=true;
+                for(int x=0;x<26;x++){
+                    if(a[x]!=b[x]){
+                        flag=false;
+                        break;
+                    }
                 }
+                if(flag){
+                    ans.add(i);
+                }
+                char d=s.charAt(i);
+                b[d-'a']--;
+                i++;
             }
-            if(fl){
-                ans.add(i-k+1);
-            }
+            j++;
         }
         return ans;
     }

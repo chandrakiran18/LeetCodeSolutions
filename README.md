@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2465-number-of-distinct-averages) |
+| [3794-reverse-string-prefix](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3794-reverse-string-prefix](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3813-vowel-consonant-score) |
 | [3921-score-validator](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3921-score-validator) |
 ## String Matching

@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0881-boats-to-save-people) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0709-to-lower-case) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0930-binary-subarrays-with-sum) |

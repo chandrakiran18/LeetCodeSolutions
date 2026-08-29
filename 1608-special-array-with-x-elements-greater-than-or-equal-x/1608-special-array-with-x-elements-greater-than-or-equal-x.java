@@ -4,10 +4,15 @@ class Solution {
         int n=nums.length;
         for(int i=0;i<=n;i++){
             int count=0;
-            for(int j=0;j<n;j++){
-                if(i<=nums[j]){
-                    count=n-j;
-                    break;
+            int x=0;
+            int y=n;
+            while(x<y){
+                int mid=x+(y-x)/2;
+                if(nums[mid]>=i){
+                    y=mid;
+                    count=n-mid;
+                }else{
+                    x=mid+1;
                 }
             }
             if(i==count)return i;

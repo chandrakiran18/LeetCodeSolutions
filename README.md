@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1528-shuffle-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1572-matrix-diagonal-sum) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1652-defuse-the-bomb](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2563-count-the-number-of-fair-pairs) |

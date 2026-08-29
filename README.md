@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0455-assign-cookies) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |

@@ -10,11 +10,11 @@ class Solution {
                 int mid=x+(y-x)/2;
                 if(nums[mid]>=i){
                     y=mid;
-                    count=n-mid;
                 }else{
                     x=mid+1;
                 }
             }
+            count=n-x;
             if(i==count)return i;
         }
         return -1;

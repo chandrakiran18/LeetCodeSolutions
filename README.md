@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -664,4 +665,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1952-three-divisors) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->

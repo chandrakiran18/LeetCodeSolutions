@@ -15,8 +15,11 @@ class Solution {
                 minI=i;
             }
         }
-        int left=Math.min(minI,maxI);
-        int right=Math.max(minI,maxI);
-        return Math.min(Math.min(n-left,right+1),left+1+n-right);
+        int ans=0;
+        int a=Math.max(maxI+1,minI+1);
+        int b=Math.max(n-maxI,n-minI);
+        int c=maxI+1+n-minI;
+        int d=minI+1+n-maxI;
+        return Math.min(Math.min(a,b),Math.min(c,d));
     }
 }

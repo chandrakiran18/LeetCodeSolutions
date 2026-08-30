@@ -20,8 +20,6 @@ class Solution {
         int b=Math.max(n-maxI,n-minI);
         int c=maxI+1+n-minI;
         int d=minI+1+n-maxI;
-        int x=Math.min(a,b);
-        int y=Math.min(c,d);
-        return Math.min(x,y);
+        return Math.min(Math.min(a,b),Math.min(c,d));
     }
 }

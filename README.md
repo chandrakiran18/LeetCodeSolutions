@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3731-find-missing-elements) |
+| [3895-count-digit-appearances](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3895-count-digit-appearances) |
 | [3921-score-validator](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3921-score-validator) |
 ## Two Pointers
 |  |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3895-count-digit-appearances](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3959-check-good-integer) |
 ## Binary Search

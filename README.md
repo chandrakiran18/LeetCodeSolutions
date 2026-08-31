@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2942-find-words-containing-character](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [2490-circular-sentence](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2490-circular-sentence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2506-count-pairs-of-similar-strings) |
+| [2942-find-words-containing-character](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3110-score-of-a-string) |

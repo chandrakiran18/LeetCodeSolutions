@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1528-shuffle-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1652-defuse-the-bomb](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1652-defuse-the-bomb) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0976-largest-perimeter-triangle) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1903-largest-odd-number-in-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -652,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0877-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Interactive
 |  |
 | ------- |

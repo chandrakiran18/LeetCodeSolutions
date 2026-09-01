@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3467-transform-array-by-parity](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3467-transform-array-by-parity) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3895-count-digit-appearances) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3467-transform-array-by-parity](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3731-find-missing-elements) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2506-count-pairs-of-similar-strings) |
+| [3467-transform-array-by-parity](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3467-transform-array-by-parity) |
 ## Counting Sort
 |  |
 | ------- |

@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0415-add-strings) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2427-number-of-common-factors) |

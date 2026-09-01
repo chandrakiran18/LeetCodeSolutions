@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2169-count-operations-to-obtain-zero](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2269-find-the-k-beauty-of-a-number) |

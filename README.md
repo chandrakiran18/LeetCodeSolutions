@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2942-find-words-containing-character](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2506-count-pairs-of-similar-strings) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Memoization
 |  |
 | ------- |

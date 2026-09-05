@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0888-fair-candy-swap) |
 | [0890-find-and-replace-pattern](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0888-fair-candy-swap) |
 | [0890-find-and-replace-pattern](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1207-unique-number-of-occurrences) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |

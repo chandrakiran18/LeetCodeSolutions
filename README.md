@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2942-find-words-containing-character](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3903-smallest-stable-index-i) |

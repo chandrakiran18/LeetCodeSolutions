@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2942-find-words-containing-character](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2974-minimum-number-game) |

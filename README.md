@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2129-capitalize-the-title](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2129-capitalize-the-title) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2409-count-days-spent-together](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |

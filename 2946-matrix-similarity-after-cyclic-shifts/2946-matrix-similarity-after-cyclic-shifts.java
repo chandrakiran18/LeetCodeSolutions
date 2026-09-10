@@ -3,6 +3,7 @@ class Solution {
         int n=mat.length;
         int m=mat[0].length;
         int[][] dup=new int[n][m];
+        k%=m;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 dup[i][j]=mat[i][j];

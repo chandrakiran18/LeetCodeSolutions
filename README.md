@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3467-transform-array-by-parity](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3467-transform-array-by-parity) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |

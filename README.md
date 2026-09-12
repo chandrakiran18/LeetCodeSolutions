@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0169-majority-element) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0137-single-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0645-set-mismatch) |

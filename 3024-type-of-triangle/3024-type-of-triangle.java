@@ -1,9 +1,9 @@
 class Solution {
     public String triangleType(int[] nums) {
-        Arrays.sort(nums);
-        if(nums[0]+nums[1]<=nums[2])return "none";
-        if(nums[0]==nums[1] && nums[0]==nums[2])return "equilateral";
-        else if(nums[0]==nums[1] || nums[0]==nums[2] ||nums[1]==nums[2])return "isosceles";
+        int a = nums[0], b = nums[1], c = nums[2];
+        if (a + b <= c || a + c <= b || b + c <= a) return "none";
+        if (a == b && b == c) return "equilateral";
+        if (a == b || a == c || b == c) return "isosceles";
         return "scalene";
     }
 }

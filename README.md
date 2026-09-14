@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Polygons
 |  |

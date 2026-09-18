@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |

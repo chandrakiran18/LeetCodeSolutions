@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3813-vowel-consonant-score) |
 | [3921-score-validator](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3921-score-validator) |
 | [3959-check-good-integer](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3959-check-good-integer) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |

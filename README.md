@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2129-capitalize-the-title) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [3467-transform-array-by-parity](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3467-transform-array-by-parity) |

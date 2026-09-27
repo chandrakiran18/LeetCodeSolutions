@@ -13,9 +13,8 @@ class Solution {
                 i++;
                 while(i<n && s.charAt(i)!=')')t.append(s.charAt(i++));
                 sb.append(map.getOrDefault(t.toString(),"?"));
-                continue;
             }
-            sb.append(c);
+            else sb.append(c);
         }
         return sb.toString();
     }

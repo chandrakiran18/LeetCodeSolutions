@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [0999-available-captures-for-rook](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0999-available-captures-for-rook) |
 | [1004-max-consecutive-ones-iii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1095-find-in-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -771,10 +773,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1095-find-in-mountain-array) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1095-find-in-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |

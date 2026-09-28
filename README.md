@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0728-self-dividing-numbers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0877-stone-game) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |

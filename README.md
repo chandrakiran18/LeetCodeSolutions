@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1528-shuffle-string) |

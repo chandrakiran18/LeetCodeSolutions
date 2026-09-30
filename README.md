@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-stone-removal-game](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3813-vowel-consonant-score) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3921-score-validator](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3921-score-validator) |
 | [3959-check-good-integer](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3959-check-good-integer) |
 ## Math
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3813-vowel-consonant-score) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3921-score-validator](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/3921-score-validator) |
 ## String Matching
 |  |

@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0881-boats-to-save-people) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0791-custom-sort-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0888-fair-candy-swap) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
@@ -724,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -789,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2974-minimum-number-game](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2974-minimum-number-game) |

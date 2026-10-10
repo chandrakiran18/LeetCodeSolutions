@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2399-check-distances-between-same-letters](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2399-check-distances-between-same-letters) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2460-apply-operations-to-an-array) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2129-capitalize-the-title) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2399-check-distances-between-same-letters](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2399-check-distances-between-same-letters) |
 | [2409-count-days-spent-together](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [2490-circular-sentence](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2490-circular-sentence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2506-count-pairs-of-similar-strings) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2399-check-distances-between-same-letters](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2399-check-distances-between-same-letters) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/chandrakiran18/LeetCodeSolutions/tree/master/2465-number-of-distinct-averages) |
